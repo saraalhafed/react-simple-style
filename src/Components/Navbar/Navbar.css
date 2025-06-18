@@ -1,0 +1,14 @@
+.navs a {
+ text-decoration: none;
+ margin: 1rem ;
+}
+.active {
+    background-color: red;
+    padding: 0.25;
+    border-radius: 10px;
+}
+.danger {
+    color: red;
+    font-size: 2rem;
+    
+}
